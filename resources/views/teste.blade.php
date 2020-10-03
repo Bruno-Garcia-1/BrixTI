@@ -1,4 +1,5 @@
 <?php
 
-    echo "Teste recebido";
-    echo "Teste recebidoew";
+    echo "Teste 1";
+    echo "Teste 2";
+    echo "Teste 3";
