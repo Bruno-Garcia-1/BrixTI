@@ -3,7 +3,16 @@
 /public/storage
 /storage/*.key
 /vendor
+<<<<<<< HEAD
 .idea/workspace.xml
+=======
+/.idea
+/.idea/
+.idea
+.idea/
+.idea/workspace.xml
+/.idea/workspace.xml
+>>>>>>> bad77b19f90fbf1655aba343300db085c465190f
 .env
 .env.backup
 .phpunit.result.cache
